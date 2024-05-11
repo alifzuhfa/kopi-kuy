@@ -1,0 +1,167 @@
+{
+    "Arabica": [
+        {
+            "foto": "https://i.pinimg.com/564x/9d/ee/5a/9dee5a3cddeb4e929276f3e5288ce8b7.jpg",
+            "nama": "Americanno",
+            "size": "200 ml",
+            "harga": "23.000",
+            "link": "https://www.google.com/search?sca_esv=3c58e7b9f2debcb8&sca_upv=1&sxsrf=ADLYWIIbsuOD7cd9oCoeqiJj_nkSlTPpzQ:1715315920958&q=kopi+susu&tbm=shop&source=lnms&prmd=ivmntzsb&ved=1t:200715&ictx=111&biw=1707&bih=758&dpr=0.8"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "size": "200 ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/7f/94/20/7f94202f7ea02b30f68d6744ef580e2d.jpg",
+            "nama": "Kopi Susu",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?sca_esv=3c58e7b9f2debcb8&sca_upv=1&sxsrf=ADLYWIIbsuOD7cd9oCoeqiJj_nkSlTPpzQ:1715315920958&q=kopi+susu&tbm=shop&source=lnms&prmd=ivmntzsb&ved=1t:200715&ictx=111&biw=1707&bih=758&dpr=0.8"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/4d/ba/ea/4dbaea7d0ae5d1b211dde94577db6da5.jpg",
+            "nama": "Affogato",
+            "size": "200 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=affogato+coffe&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIL_Qj5VN7Rsx3kWhODkgixFY5JSdw%3A1715324637827&ei=3cY9ZqrwMdamseMPqvmSoAw"
+        }
+    ],
+    "Robusta": [
+        {
+            "foto": "https://i.pinimg.com/564x/51/c6/15/51c6151d5f49375b482826555c18af0f.jpg",
+            "nama": "Keto Caramel Macchiato",
+            "size": "200 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=macchiato&sca_esv=3c58e7b9f2debcb8&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIKfLJl4ecVhgQ1TOZoRjGp2PBHMRQ%3A1715315960839&ei=-KQ9ZrWuMq_e4-EPyMeAwA0&ved=0ahUKEwi1ipf0oYKGAxUv7zgGHcgjANgQ4dUDCAg&uact=5&oq=macchiato&gs_lp=Egtwcm9kdWN0cy1jYyIJbWFjY2hpYXRvMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBxAAGIAEGAoyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESKIVUABYjxJwAHgAkAEAmAG6BKAB2waqAQcyLjEuNS0xuAEDyAEA-AEBmAIEoALsBpgDAJIHBzIuMS40LTGgB_8R&sclient=products-cc"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Coffe Latte",
+            "size": "200 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=latte&sca_esv=3c58e7b9f2debcb8&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIKSbI24nNlH-NZyJDhrmhHge1lhdw%3A1715314536333&ei=aJ89ZuTPE_yM4-EPi5KfiA8&ved=0ahUKEwjko_bMnIKGAxV8xjgGHQvJB_EQ4dUDCAg&uact=5&oq=latte&gs_lp=Egtwcm9kdWN0cy1jYyIFbGF0dGUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESN8HUABYgQVwAHgAkAEAmAHpAqABqQeqAQcwLjIuMC4yuAEDyAEA-AEBmAIEoAK-B5gDAJIHBzAuMi4wLjKgB6IR&sclient=products-cc"
+        },
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/b2/3a/25/b23a2553f4084ad9212fb35f7eace546.jpg",
+            "nama": "Mocha Latte",
+            "size": "200 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?sca_esv=a5fe1f6bddd2655c&sca_upv=1&sxsrf=ADLYWIKabA5r-LrNCRdUq_uCc6IP_i25vQ:1715324409676&q=mocha+latte&tbm=shop&source=lnms&prmd=ivsnmbtz&ved=1t:200715&ictx=111&biw=1707&bih=758&dpr=0.8"
+        }
+    ],
+    "Non Kopi": [
+        {
+            "foto": "https://i.pinimg.com/564x/f5/7a/49/f57a499a4b3b3e4763a33c3baad47a8b.jpg",
+            "nama": "Chocolate",
+            "size": "200 ml",
+            "harga": "23.000",
+            "link": "https://www.google.com/search?q=hot+chocolate&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWILxHNDJAX_Xv1OLIh07LNXXel60Rw%3A1715322630879&ei=Br89ZtHjNIW94-EPwvO_6Ak&ved=0ahUKEwjR_tnguoKGAxWF3jgGHcL5D50Q4dUDCAg&uact=5&oq=hot+chocolate&gs_lp=Egtwcm9kdWN0cy1jYyINaG90IGNob2NvbGF0ZTIFEAAYgAQyBRAAGIAEMgUQABiABDIGEAAYBxgeMgYQABgHGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IiiNQAFilIHAAeACQAQCYAcwCoAGBDKoBBzAuMS40LjG4AQPIAQD4AQGYAgOgAtIGwgIEECMYJ8ICChAAGIAEGEMYigXCAgwQABiABBhDGIoFGAqYAwCSBwUyLTIuMaAHnSQ&sclient=products-cc"           
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/66/55/9a/66559a6d2c2da554df1f03b1f5b1e819.jpg",
+            "nama": "Red Velvet",
+            "size": "200 ml",
+            "harga": "23.000",
+            "link": "https://www.google.com/search?sca_esv=3c58e7b9f2debcb8&sca_upv=1&sxsrf=ADLYWIKHXYo1rrbMi_t1JmKiL7nf0Ft_cg:1715317918016&q=red+velvet+minuman&tbm=shop&source=lnms&prmd=isvnbmtz&ved=1t:200715&ictx=111&biw=1707&bih=758&dpr=0.8"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/37/0c/81/370c81f8a0721482f6327a3196c63377.jpg",
+            "nama": "Matcha",
+            "size": "300 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=matcha+milkshake&sca_esv=3c58e7b9f2debcb8&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWILJYEOlT91jh7iHahSersx_DYTQjQ%3A1715317920636&ei=oKw9ZveTJriY4-EP0q6SwAw&ved=0ahUKEwj349eaqYKGAxU4zDgGHVKXBMgQ4dUDCAg&uact=5&oq=matcha+milkshake&gs_lp=Egtwcm9kdWN0cy1jYyIQbWF0Y2hhIG1pbGtzaGFrZTIHEAAYgAQYE0i9gxhQlL8XWND-F3AAeACQAQOYAZoFoAH8IaoBCzMuNi4wLjMuNC4xuAEDyAEA-AEBmAIOoALqGMICBBAjGCfCAgYQABgHGB7CAgUQABiABMICBhAAGBYYHsICBxAAGIAEGA3CAgoQABiABBjWBRgNwgIJEAAY1gUYDRgemAMAiAYBkgcLMy42LjAuMi4yLjGgB91U&sclient=products-cc"      
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/f3/10/85/f31085af66b5cd61c9ae41b5d0d75449.jpg",
+            "nama": "Banana Milkshake",
+            "size": "300 ml",
+            "harga": "27.000",
+            "link": "https://www.google.com/search?q=banana+milkshake&sca_esv=3c58e7b9f2debcb8&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIKF8LwEmBxv4q65lZwJLm-bzTJCVA%3A1715318363834&ei=W649ZsP8MamQseMPtuKamAw&ved=0ahUKEwiDloLuqoKGAxUpSGwGHTaxBsMQ4dUDCAg&uact=5&oq=banana+milkshake&gs_lp=Egtwcm9kdWN0cy1jYyIQYmFuYW5hIG1pbGtzaGFrZUjOBlAAWL0EcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHAA&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/a2/69/b1/a269b136c37a348887a22e9f52d47c68.jpg",
+            "nama": "Strawberry Milkshake",
+            "size": "300 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=strawberry+milkshake&sca_esv=3c58e7b9f2debcb8&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIKEdX61fCYh-gkKsLljPwiOv1d6DQ%3A1715318527276&ei=_649ZqqTEP33seMPo-yRmAw&ved=0ahUKEwjqjvq7q4KGAxX9e2wGHSN2BMMQ4dUDCAg&uact=5&oq=strawberry+milkshake&gs_lp=Egtwcm9kdWN0cy1jYyIUc3RyYXdiZXJyeSBtaWxrc2hha2UyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSLUXUABYuhNwAHgAkAEAmAGIA6ABmguqAQc0LjQuMS4xuAEDyAEA-AEBmAIHoALRBcICBhAAGAcYHsICBxAAGIAEGA3CAgoQABiABBjWBRgNmAMAkgcDNC4zoAflUw&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/b9/ef/f3/b9eff3eaf21b72053628024157ee2c15.jpg",
+            "nama": "Chocolate Milkshake",
+            "size": "300 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=chocolate+milkshake+&sca_esv=3c58e7b9f2debcb8&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIJTCFF6ydOjbW1EP8RIsBxfePA2lg%3A1715317195002&ei=yqk9ZqOnPNn3seMPwaeq0AY&ved=0ahUKEwijtNbApoKGAxXZe2wGHcGTCmoQ4dUDCAg&uact=5&oq=chocolate+milkshake+&gs_lp=Egtwcm9kdWN0cy1jYyIUY2hvY29sYXRlIG1pbGtzaGFrZSAyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBNIlEZQ4ApY0ihwAHgAkAEAmAGuAaABiA2qAQQxOS4yuAEDyAEA-AEBmAIVoALPDcICBBAjGCfCAgUQABiABMICBhAAGBYYHsICChAAGIAEGNYFGA2YAwCIBgGSBwQxOC4zoAeDZw&sclient=products-cc"
+        }
+    ],
+    "Tea": [
+        {
+            "foto": "https://i.pinimg.com/564x/b4/af/29/b4af29c29a02b8c9a7f6d443083c4d54.jpg",
+            "nama": "Peppermint Tea",
+            "size": "200 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=peppermint+tea&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIJZNi_gJKsjQgkFLp2dHEMQS05DVQ%3A1715319957327&ei=lbQ9ZqOsE5mR4-EPs5Gc4AI&ved=0ahUKEwjjyu3lsIKGAxWZyDgGHbMIBywQ4dUDCAg&uact=5&oq=peppermint+tea&gs_lp=Egtwcm9kdWN0cy1jYyIOcGVwcGVybWludCB0ZWEyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSLIaUABYmBVwAHgAkAEBmAHmAqABpAyqAQgxMC4yLjEuMbgBA8gBAPgBAZgCDaAC7grCAgoQABiABBhDGIoFmAMAkgcIMTAuMi4wLjGgB_pC&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/4e/45/cf/4e45cfc7531347df53074abe54e9a07d.jpg",
+            "nama": "Peach Tea",
+            "size": "200 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=peach+tea&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIKJsrgNc5kXsAATuTfBfLYLjYsxJg%3A1715320151083&ei=V7U9ZueeBJi_juMPo6W-oAU&ved=0ahUKEwinpp_CsYKGAxWYn2MGHaOSD1QQ4dUDCAg&uact=5&oq=peach+tea&gs_lp=Egtwcm9kdWN0cy1jYyIJcGVhY2ggdGVhMgoQABiABBhDGIoFMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkjGDFAAWLUKcAB4AJABAJgBugOgAcARqgEJMC4zLjEuMi4yuAEDyAEA-AEBmAIIoALyEcICBBAjGCeYAwCSBwkwLjIuMi4yLjKgB8kl&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/736x/d8/bf/ac/d8bfacf78dfd292f3df9a3a9b36ebd13.jpg",
+            "nama": "Strawberry Tea",
+            "size": "250 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=strawberry+tea&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIKm2kFeJajDHMki2dPC32akSnu0yw%3A1715321230479&ei=jrk9ZqvFHJSZseMPi8Kb2AE&ved=0ahUKEwirxPjEtYKGAxWUTGwGHQvhBhsQ4dUDCAg&uact=5&oq=strawberry+tea&gs_lp=Egtwcm9kdWN0cy1jYyIOc3RyYXdiZXJyeSB0ZWEyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSKAjUABYriBwAHgAkAEAmAGOAqABjxGqAQUzLjkuMrgBA8gBAPgBAZgCDqAC0RHCAgoQABiABBhDGIoFwgIEECMYJ5gDAJIHBTIuOS4zoAfPTg&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/ff/7b/0e/ff7b0ef500f7f993a7ea03bdba1b573f.jpg",
+            "nama": "Pure Chamomile",
+            "size": "200 ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=pure+chacomile+tea&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIKkvwsDu-VzUpSsg4Dt3d7VX34Ceg%3A1715321375181&ei=H7o9ZtyiCryfnesPoOCPCA&ved=0ahUKEwicrviJtoKGAxW8T2cHHSDwAwEQ4dUDCAg&uact=5&oq=pure+chacomile+tea&gs_lp=Egtwcm9kdWN0cy1jYyIScHVyZSBjaGFjb21pbGUgdGVhMgoQABiABBjWBRgNMgoQABiABBjWBRgNMgoQABiABBjWBRgNMgkQABjWBRgNGB4yCRAAGNYFGA0YHjIJEAAY1gUYDRgeMgkQABjWBRgNGB4yCRAAGNYFGA0YHjIJEAAY1gUYDRgeMgkQABjWBRgNGB5IgjBQAFi-LXAAeACQAQCYAZcMoAGdN6oBDTAuNi40LjQuNy0yLjG4AQPIAQD4AQGYAhGgAus3wgIKEAAYgAQYQxiKBcICBRAAGIAEwgIGEAAYFhgewgIHEAAYgAQYDcICBhAAGA0YHpgDAJIHDTAuNi40LjMuMS43LTOgB8Bm&sclient=products-cc"   
+        }
+    ],
+    "Sandwich": [
+        {
+            "foto": "https://i.pinimg.com/564x/8a/2d/ce/8a2dce74a6e3a0fa7f405d1261932fa8.jpg",
+            "nama": "Croissant Cookie",
+            "size": "50 gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&sxsrf=ADLYWIIX22UZ7yuvCXh-oZY3OPP22soTEQ:1715323161363&q=croissant+cookie+berapa+gram&tbm=shop&source=lnms&prmd=itszvbmn&ved=1t:200715&ictx=111"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/b2/bd/11/b2bd1160a1ec92b99199c5462699b1d9.jpg",
+            "nama": "Ham and Cheese Croissant",
+            "size": "50 gram",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=ham+and+cheese+croissant&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIIdeoMHjtLYLrkS8b6BKVo7gqKXKg%3A1715323339085&ei=y8E9ZsuqBOyVseMPjqyc0AU&oq=ham+and+cheese&gs_lp=Egtwcm9kdWN0cy1jYyIOaGFtIGFuZCBjaGVlc2UqAggCMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTSIUXUABYAHAAeACQAQCYAdUDoAHVA6oBAzQtMbgBAcgBAPgBAZgCAaAC5QOYAwCSBwM0LTGgB6gF&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/2d/82/8f/2d828f21fd6c829f8ee9698e3b7f205b.jpg",
+            "nama": "Bread Omelette Sandwich",
+            "size": "50 gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=bread+omelette+sandwich&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWILVF7ZmKIDZycC_dJlrsUT4V6_HUw%3A1715323643120&ei=-8I9ZsvsBajdseMP5IC8mAQ&ved=0ahUKEwiL1q_DvoKGAxWobmwGHWQAD0MQ4dUDCAg&uact=5&oq=bread+omelette+sandwich&gs_lp=Egtwcm9kdWN0cy1jYyIXYnJlYWQgb21lbGV0dGUgc2FuZHdpY2gyBBAjGCdIoRdQAFidD3AAeACQAQCYAfIFoAGaGKoBDTAuMS4yLjIuMC4yLjG4AQPIAQD4AQGYAgigAr0YwgIJEAAY1gUYDRgewgILEAAYBRjWBRgNGB7CAgsQABjWBRgIGA0YHpgDAJIHCzAuMS4yLjIuMi4xoAfcKQ&sclient=products-cc"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/65/0d/ad/650dad247bb48d5fa7b70d08b79d3e6b.jpg",
+            "nama": "Club Sandwich",
+            "size": "50 gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=club+sandwich&sca_esv=a5fe1f6bddd2655c&sca_upv=1&biw=1707&bih=758&tbm=shop&sxsrf=ADLYWIJW8p8fv2Oi3vxE80tgBMZvaECUUw%3A1715323654914&ei=BsM9ZuaMN772seMPir6JgA8&oq=club+sand&gs_lp=Egtwcm9kdWN0cy1jYyIJY2x1YiBzYW5kKgIIADIKEAAYgAQYQxiKBTIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHkj7G1AAWP0KcAB4AJABAJgByASgAdcTqgELMS4xLjQuMi4wLjG4AQHIAQD4AQGYAgmgAv4TwgIFEAAYgATCAgcQABiABBgKmAMAkgcJMC4yLjQuMi4xoAenLg&sclient=products-cc"
+        }
+    ]
+    
+}
